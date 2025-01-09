@@ -11,7 +11,7 @@
 	<groupId>com.nit</groupId>
 	<artifactId>ClinkitSolution</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>ClinkitSolutions</name>
 	<description>Demo project for ClinkitSolutions</description>
 	<url/>
